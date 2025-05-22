@@ -1,1 +1,1 @@
-The data used for generating the figures are included.
+Code for paper •	Disentangling the historical impacts of warming and fishing on exploited freshwater fish populations
